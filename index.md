@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 ---
-_Edge Repo is a Yum RPM repository for most major RPM distributions (Redhat and Fedora)_
+_Edge Repo is a Yum RPM repository for EL distributions (6 and 7)_
 
 It tries to stay as close as possible to upstream releases version
 
@@ -11,7 +11,7 @@ It tries to stay as close as possible to upstream releases version
 
 * Apache 2.4
 * PHP 5.6
-* Varnish 4.1
+* Varnish 5.0
 * Redis 3.2
 * ...
 
@@ -20,8 +20,6 @@ It tries to stay as close as possible to upstream releases version
 
 * CentOS/RHEL/OCL/SL 6 (el6)
 * CentOS/RHEL/OCL/SL 7 (el7)
-* Fedora 23
-* Fedora 24
 
 
 ## Proof of build

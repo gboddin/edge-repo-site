@@ -12,10 +12,3 @@ permalink: /install/
 
 ```rpm -ivh http://repo.siwhine.net/el/7/edge-repo-latest.rpm```
 
-#### For Fedora 23 
-
-```rpm -ivh http://repo.siwhine.net/fedora/23/edge-repo-latest.rpm```
-
-#### For Fedora 24 
-
-```rpm -ivh http://repo.siwhine.net/fedora/24/edge-repo-latest.rpm```
